@@ -1,0 +1,9 @@
+This is a TDD and refactoring exercise. Install rspec
+
+= gem install rspec
+
+then run 
+
+= rspec
+
+You'll see a lot of errors. You want to review the code, and build it out so it matches the tests.
